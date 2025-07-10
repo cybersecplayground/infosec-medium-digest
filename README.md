@@ -6,7 +6,7 @@ A curated collection of valuable Medium articles and resources for cybersecurity
 
 Explore resources by category:
 
-- [Penetration Testing](/categories/penetration-testing) (soon)
+- [Penetration Testing](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing)
 - [Red Teaming](/categories/red-teaming) (soon)
 - [Blue Teaming](/categories/blue-teaming) (soon)
 - [Threat Intelligence](/categories/threat-intel) (soon)
