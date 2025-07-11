@@ -13,7 +13,6 @@ Explore resources by category:
 - [Malware Analysis](/categories/malware-analysis) (soon)
 - [Digital Forensics](/categories/forensics) (soon)
 - [Cloud Security](/categories/cloud-security) (soon)
-- [Web Application Security](/categories/web-appsec) (soon)
 - [IoT Security](/categories/iot-security) (soon)
 
 ## Featured Articles
