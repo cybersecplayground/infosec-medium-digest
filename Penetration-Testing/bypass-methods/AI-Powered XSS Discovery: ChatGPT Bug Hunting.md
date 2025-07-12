@@ -23,7 +23,7 @@ How a $500 bounty XSS was uncovered using ChatGPT for vulnerability research and
 
 ## 🌐 Join Our Hacking Community
 For more AI-security crossover content and live discussions:  
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/yourchannel)  
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue)](https://t.me/cybersecplayground)  
 *Daily sharing of tools, techniques and bounty opportunities*
 
 ---
