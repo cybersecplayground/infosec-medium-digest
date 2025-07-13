@@ -23,7 +23,7 @@ How a seemingly basic stored XSS escalated from $100 to $20,000 bounty through c
 
 ## 🚀 Join Our Elite Hunting Group
 For advanced bug bounty strategies and private collab opportunities:  
-[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue)](https://t.me/yourchannel)  
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-blue)](https://t.me/cybersecplayground)  
 *Weekly exclusive payloads + program insights*
 
 ---
