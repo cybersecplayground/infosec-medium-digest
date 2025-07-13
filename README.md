@@ -20,6 +20,8 @@ Explore resources by category:
 <!-- Update periodically with top picks -->
 1. 🚀 [Bypassing Rate Limits: All Known Techniques](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/bypass-methods/Bypassing%20Rate%20Limits%3A%20All%20Known%20Techniques.md)
 
+2. 💰 [From $100 to $20k: The Hidden Stored XSS Goldmine](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/XSS/From%20$100%20to%20$20k:%20The%20Hidden%20Stored%20XSS%20Goldmine.md)
+
 
 ## License
 
