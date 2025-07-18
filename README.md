@@ -22,6 +22,8 @@ Explore resources by category:
 
 2. 💰 [From $100 to $20k: The Hidden Stored XSS Goldmine](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/XSS/From%20$100%20to%20$20k:%20The%20Hidden%20Stored%20XSS%20Goldmine.md)
 
+3. 💰 [Easy $300: Template Injection Goldmine](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/Template%20Injection/Easy%20%24300%3A%20Template%20Injection.md)
+
 
 ## License
 
