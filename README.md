@@ -24,6 +24,7 @@ Explore resources by category:
 
 3. 💰 [Easy $300: Template Injection Goldmine](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/Template%20Injection/Easy%20%24300%3A%20Template%20Injection.md)
 
+4. 🚀 [AI-Powered Fuzzing: Maximizing Bug Bounty Impact with FFUF+AI](https://github.com/cybersecplayground/infosec-medium-digest/blob/main/Penetration-Testing/FUZZ/AI-Powered%20Fuzzing%3A%20Maximizing%20Bug%20Bounty%20Impact%20with%20FFUF%2BAI.md)
 
 ## License
 
