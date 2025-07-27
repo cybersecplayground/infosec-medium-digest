@@ -8,7 +8,7 @@
 How a systematic automation approach generated **consistent $1k/month** from bug bounties starting with zero experience.
 
 ## 🛠️ Architecture Breakdown
-```mermaid
+```
 graph TD
     A[Target Discovery] --> B[Automated Recon]
     B --> C[Vulnerability Scanning]
