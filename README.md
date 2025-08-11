@@ -6,14 +6,13 @@ A curated collection of valuable Medium articles and resources for cybersecurity
 
 Explore resources by category:
 
-- [Penetration Testing](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing)
-- [Red Teaming](/categories/red-teaming) (soon)
-- [Blue Teaming](/categories/blue-teaming) (soon)
-- [Threat Intelligence](/categories/threat-intel) (soon)
-- [Malware Analysis](/categories/malware-analysis) (soon)
-- [Digital Forensics](/categories/forensics) (soon)
-- [Cloud Security](/categories/cloud-security) (soon)
-- [IoT Security](/categories/iot-security) (soon)
+- [Fuzzing](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/FUZZ)
+- [Recon](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/Recon)
+- [SSRF](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/SSRF)
+- [XSS](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/XSS)
+- [Bypass methods](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/bypass-methods)
+- [Template Injection](https://github.com/cybersecplayground/infosec-medium-digest/tree/main/Penetration-Testing/Template%20Injection)
+- ...
 
 ## Featured Articles
 
